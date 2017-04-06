@@ -22,6 +22,6 @@ Pod::Spec.new do |s|
   s.source_files = 'Pod/Classes/**/*'
 
   s.dependency 'Analytics', '~> 3.0'
-  s.dependency 'Appboy-iOS-SDK'
+  s.dependency 'Appboy-iOS-SDK', '2.28.0'
 
 end
